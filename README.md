@@ -8,8 +8,8 @@ SpringAI
 Ollama: is an open-source project that serves as a powerful and user-friendly platform for running LLMs on your local machine.
 llama3.2:3b
 
-and need misteral:
+And need misteral:
 run(cmd):
 
-ollama pull mistral
+Ollama pull mistral
 test: ollama run mistral
